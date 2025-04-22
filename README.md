@@ -7,3 +7,5 @@ Chat Visualiser demo https://modina.eu/webapp/best-practices-chat-vis/demo.html
 Best Practices Chat Playlist: https://www.youtube.com/watch?v=485p6Z1-hHo&list=PLVIdoREykT8Jk_vGehGzNbhzex9HshB5x
 
 Javascript code adapted from Leon Fedden
+
+Embeddings produced using the following notebook https://github.com/modina-eu/dim_reduction_notebooks
